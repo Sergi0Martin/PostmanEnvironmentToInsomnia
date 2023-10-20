@@ -1,6 +1,8 @@
 # Transpiled files
 src/ts-out/
 
+conversionFiles/
+
 # Logs
 logs
 *.log
