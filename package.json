@@ -1,0 +1,17 @@
+{
+  "name": "postmanenvironmenttoinsomnia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "execute": "tsc && node ./src/ts-out/PostmanEnvironmentToInsomnia.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sergio Martin",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.6",
+    "commander": "^11.1.0"
+  }
+}
